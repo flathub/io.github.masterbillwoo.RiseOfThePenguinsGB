@@ -26,14 +26,14 @@ modules:
       - install -Dm644 icons/64x64.png /app/share/icons/hicolor/64x64/apps/io.github.masterbillwoo.RiseOfThePenguinsGB.png
     sources:
       - type: archive
-        url: https://github.com/masterbillwoo/riseofthepenguinsgb/raw/72649cac0bcd90f3a7e921bd36232b3fa3715719/rise-of-the-penguins-gb-linux-x86_64-v1.0.9.zip
-        sha256: aa770c0f0de22f6532e0b0f88183e0c531a2239cf697677bd51fc5bb9e67e4ea
+        url: https://github.com/masterbillwoo/riseofthepenguinsgb/raw/6e3a12d62f52248c43d85e09665cff79864f4d03/rise-of-the-penguins-gb-linux-x86_64-v1.0.10.zip
+        sha256: b898830b132f6e3639b0f666de3abf1a24babb2f81bd4e680657c3b7bae52244
         strip-components: 0
         only-arches:
           - x86_64
       - type: archive
-        url: https://github.com/masterbillwoo/riseofthepenguinsgb/raw/72649cac0bcd90f3a7e921bd36232b3fa3715719/rise-of-the-penguins-gb-linux-aarch64-v1.0.9.zip
-        sha256: 933b48d65f5d350847ac425db3b97189c10998e63bd153a238f1bee46d1b3c6d
+        url: https://github.com/masterbillwoo/riseofthepenguinsgb/raw/6e3a12d62f52248c43d85e09665cff79864f4d03/rise-of-the-penguins-gb-linux-aarch64-v1.0.10.zip
+        sha256: 4da279cf9e85e13f026a1278d4c5d158e74a799c4597fdada9da78a10c4d8ac3
         strip-components: 0
         only-arches:
           - aarch64
